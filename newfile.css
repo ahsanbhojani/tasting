@@ -1,0 +1,160 @@
+
+.banner{background-image: url(dress.jpg);
+    background-size:cover ;
+    background-position: center;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.d1{height: 500px;
+    background:rgb(177, 230, 181) ;
+    margin-top: 80px;
+    margin-left: 100px;
+    border-radius: 40px; 
+   opacity: 0.9;
+    text-align: center;
+    padding: 0px 20px;
+    
+}
+.d2{height: 500px;
+    background: rgb(19, 148, 120);
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 40px;
+    opacity: 0.9;
+    text-align: center;
+    padding: 0px 20px;
+    
+}
+.d3{height: 500px;
+background: rgb(63, 75, 9);
+margin-top: 80px;
+margin-right: 100px;
+border-radius: 40px;
+opacity: 0.9;
+text-align: center;
+padding: 0px 20px;
+
+}
+
+.d4{height: 500px;
+    background:rgb(36, 144, 158) ;
+    margin-top: 80px;
+    margin-left: 100px;
+    border-radius: 40px;
+    opacity: 0.9;
+     text-align: center;
+    padding: 0px 20px;
+}
+.d5{height: 500px;
+    background: rgb(187, 157, 22);
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 40px; 
+     opacity: 0.9;
+     text-align: center;
+    padding: 0px 20px;
+
+} 
+.d6{height: 500px;
+background: rgb(136, 153, 201);
+margin-top: 80px;
+margin-bottom: 80px;
+margin-right: 100px;
+border-radius: 40px;
+opacity: 0.9; 
+text-align: center;
+padding: 0px 20px;
+
+}
+.d7{height: 500px;
+    background:rgb(12, 141, 130) ;
+    margin-top: 80px;
+    margin-left: 100px;
+        margin-bottom: 80px;
+        border-radius: 40px; 
+         opacity: 0.9;
+          text-align: center;
+         padding: 0px 20px;
+
+        }
+.d8{height: 500px;
+    background: rgb(93, 31, 173);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 40px;
+    opacity: 0.9;
+    text-align: center;
+    padding: 0px 20px;
+
+}
+.d9{height: 500px;
+background: rgb(216, 163, 16);
+margin-top: 80px;
+margin-bottom: 80px;
+margin-right: 100px;
+border-radius: 40px;
+ opacity: 0.9; 
+ text-align: center;
+ padding: 0px 20px;
+
+}
+
+
+
+.p1{ text-align: justify; 
+    font-size: 20px;
+}
+
+
+
+
+
+.b1{ color:rgb(26, 145, 145);
+background: rgb(214, 209, 209);
+border-radius: 50px;
+opacity: 0.9;
+font-size: 20px;
+}
+
+     .b1:haver{ color: rgb(70, 110, 17);
+        background: rgb(228, 227, 230);
+        border-radius: 50px;
+        opacity: 0.9;
+        font-size: 20px;
+
+     }
+     .bannar2{grid-template-rows: 1fr;
+        display: grid;
+     
+
+
+     }
+     .db1{background-color: rgb(7, 219, 35); 
+        height: 250px;
+        opacity: 0.9; 
+        background: url(back.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        
+
+
+
+     }
+     .hb1{font-size: 100px;
+        text-align: center;
+        margin-top: 50px;
+
+     }
+     
+
+    
+
+    
+
+
